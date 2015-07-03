@@ -9,7 +9,7 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Descrição do comando: serve para criar um arquivo, ou exibi-lo | Ex: cat arquivo1.txt arquivo2.txt
 
 
 cd
