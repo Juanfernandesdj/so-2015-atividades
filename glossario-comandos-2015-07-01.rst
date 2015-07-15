@@ -9,23 +9,23 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando: serve para criar um arquivo, ou exibi-lo | Ex: cat arquivo1.txt arquivo2.txt
+   serve para criar um arquivo, ou exibi-lo | Ex: cat arquivo1.txt arquivo2.txt
 
 
 cd
-  Descrição do comando: serve pra mudar de diretório | Ex: cd /home/IFRN
+   serve pra mudar de diretório | Ex: cd /home/IFRN
 
 
 cowsay
-  Descrição do comando: serve pra mostrar uma vaquinha | Ex: cowsay
+   serve pra mostrar uma vaquinha | Ex: cowsay
 
 
 echo
-  Descrição do comando: mostra uma mensagem | x = 7 // echo x
+   mostra uma mensagem | x = 7 // echo x
 
 
 env
-  Descrição do comando: serve pra imprimir uma lista das variáveis de ambiente atuais, ou para executar outro programa em um ambiente   personalizado
+  serve pra imprimir uma lista das variáveis de ambiente atuais, ou para executar outro programa em um ambiente   personalizado
 
 
 exit
